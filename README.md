@@ -6,5 +6,7 @@ _Student database system with docker support allowing the students to log._
 
 ## languages
   - java
+    - html
+    - web
   - python
   - uml
